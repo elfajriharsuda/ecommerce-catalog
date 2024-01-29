@@ -1,7 +1,8 @@
 <template>
   <footer class="footer">
       <div class="copyright">
-        Copyrigths &copy; {{ currentYear }} <a href="https://www.linkedin.com/in/elfajriharsuda/" target="_blank">{{ organizationName }}</a>
+        Copyrights &copy; {{ currentYear }} <a href="https://www.linkedin.com/in/elfajriharsuda/" target="_blank">{{ organizationName }}.</a> All rights
+            reserved.
       </div>
       <div class="legal-links">
         <a href="#">Terms of Service</a>
