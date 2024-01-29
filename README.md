@@ -1,4 +1,4 @@
-# ecommerce
+# ecommerce-catalog
 
 ## Project setup
 ```
