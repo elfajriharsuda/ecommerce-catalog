@@ -1,4 +1,5 @@
 # ecommerce-catalog
+## Core Initiative Frontend Project Based Internship Program - Final Project
 
 ## Project setup
 ```
